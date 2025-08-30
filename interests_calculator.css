@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    font-family: arial;
+    color: white;
+}
+
+h1 {
+    color: grey;
+    font-family: verdana;
+}
+
+.maindiv {
+    background-color: white;
+    color: black;
+    width: 300px;
+    padding: 20px;
+    border-radius: 25px;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 400px;
+}
+
+.footer {
+    margin-left: 420px;
+}
